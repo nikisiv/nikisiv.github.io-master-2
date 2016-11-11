@@ -1,0 +1,48 @@
+body{
+  background-color: #616161;
+}
+section h2{
+  font-family: 'Josefin Sans', sans-serif;
+  font-size: 28px;
+  color: #ffffff;
+  padding: 20px 50px 10px 50px;
+}
+
+section h3{
+  font-family: 'Josefin Sans', sans-serif;
+  font-size: 20px;
+  color: #B0B535;
+  padding: 10px 50px 10px 50px;
+}
+
+section p{
+  font-family: 'Josefin Sans', sans-serif;
+  font-size: 18px;
+  color: #B0B535;
+  margin: auto;
+  padding: 10px 50px 10px 50px;
+  font-weight: 100;
+  line-height: 1.5;
+}
+
+section header img{
+  width: 960px;
+  margin-left: 0px;
+}
+
+section img{
+  width: 600px;
+  margin-left: 50px;
+}
+
+section span h3{
+  font-family: 'Josefin Sans', sans-serif;
+  font-size: 20px;
+  color: #B0B535;
+  padding: 28px 50px 10px 50px;
+  float: right;
+}
+
+section{
+  background-color: #353534;
+}
